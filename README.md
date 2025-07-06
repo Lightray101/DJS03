@@ -61,7 +61,7 @@ Installation & Setup
 -  npm run dev - Start development server with hot reload
 -  npm run build - Build for production
 -  npm run preview - Preview production build locally
--  
+  
 # Code Review Checklist
 -  ✅ React functional components used
 -  ✅ Fetch API implemented correctly
