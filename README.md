@@ -63,12 +63,12 @@ Installation & Setup
 -  npm run preview - Preview production build locally
 -  
 # Code Review Checklist
-✅ React functional components used
-✅ Fetch API implemented correctly
-✅ useEffect for data fetching on mount
-✅ useState for state management
-✅ .map() for dynamic rendering
-✅ Date formatting implemented
-✅ Responsive CSS Grid/Flexbox
-✅ JSDoc comments present
-✅ Clean, modular code structure
+-  ✅ React functional components used
+-  ✅ Fetch API implemented correctly
+-  ✅ useEffect for data fetching on mount
+-  ✅ useState for state management
+-  ✅ .map() for dynamic rendering
+-  ✅ Date formatting implemented
+-  ✅ Responsive CSS Grid/Flexbox
+-  ✅ JSDoc comments present
+-  ✅ Clean, modular code structure
